@@ -3,13 +3,10 @@
 **Contributors:** (this should be a list of wordpress.org userid's)  
 **Requires at least:** WordPress 4.4  
 **Tested up to:** WordPress 4.7  
-**Stable tag:** 1.2  
 **Requires PHP:** 5.6
 
-**Version:** 1.2  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
-**Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
 
 Here is a short description of the theme that might appear in the customizer.
 
@@ -21,7 +18,8 @@ This is the long description.  No limit, and you can use Markdown (as well as in
 A few notes about the sections above:
  
 *   "Contributors" is a comma separated list of wp.orgusernames
-*   "Tags" is a comma separated list of tags that apply to the theme
+*   "Stable tag" is not needed for themes
+*   "Tags" is not needed since these are parsed from the style.css file
 *   "Requires at least" is the lowest version that the plugin will work on
 *   "Tested up to" is the highest version that you've *successfully used to test the theme*. Note that it might work on
 higher versions... this is just the highest one you've verified.
