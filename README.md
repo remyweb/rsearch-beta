@@ -1,3 +1,7 @@
+Please note that for the purpose of submitting a WordPress theme to the WordPress.org theme directory,
+a readme.txt file is required.
+
+
 # Twenty Seventeen
 
 **Contributors:** (this should be a list of wordpress.org userid's)  
